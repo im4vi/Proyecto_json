@@ -5,8 +5,8 @@ Este proyecto consiste en realizar un programa en Python que extrae información
 
 1. Listar información: Lista los equipos de LaLiga.
 2. Contar información: Muestra el total de equipos en LaLiga.
-3. Buscar o filtrar información: Permite buscar equipos por nombre.
-4. Buscar información relacionada: Muestra el estadio de un equipo por su código.
+3. Buscar o filtrar información: Permite buscar equipos por nombre o palabra incluida en el nombre del equipo.
+4. Buscar información relacionada: Muestra el estadio de un equipo por su código (BAR, ATM, RMA...).
 5. Ejercicio libre: Muestra los equipos ordenados por su año de fundación.
 
 ### Estructura del proyecto
