@@ -1,0 +1,143 @@
+{
+    "clubs": [
+        {
+            "nombre": "Almeria",
+            "codigo": "ALM",
+            "fundacion": 1989,
+            "estadio": "Estadio Juegos del Mediterraneo",
+            "capacidad": 15100
+        },
+        {
+            "nombre": "Athletic Club",
+            "codigo": "ATH",
+            "fundacion": 1898,
+            "estadio": "San Mames",
+            "capacidad": 53000
+        },
+        {
+            "nombre": "Atletico de Madrid",
+            "codigo": "ATM",
+            "fundacion": 1903,
+            "estadio": "Wanda Metropolitano",
+            "capacidad": 68456
+        },
+        {
+            "nombre": "Barcelona",
+            "codigo": "BAR",
+            "fundacion": 1899,
+            "estadio": "Camp Nou",
+            "capacidad": 99354
+        },
+        {
+            "nombre": "Real Betis",
+            "codigo": "BET",
+            "fundacion": 1907,
+            "estadio": "Benito Villamarin",
+            "capacidad": 60000
+        },
+        {
+            "nombre": "Celta de Vigo",
+            "codigo": "CEL","fundacion": 1923,
+            "estadio": "Municipal de Balaidos",
+            "capacidad": 29400
+        },
+        {
+            "nombre": "Getafe",
+            "codigo": "GET",
+            "fundacion": 1983,
+            "estadio": "Coliseum Alfonso Perez",
+            "capacidad": 17000
+        },
+        {
+            "nombre": "Girona",
+            "codigo": "GIR",
+            "fundacion": 1930,
+            "estadio": "Estadi Municipal de Montilivi",
+            "capacidad": 13700
+        },
+        {
+            "nombre": "Granada",
+            "codigo": "GRA",
+            "fundacion": 1931,
+            "estadio": "Nuevo Los Carmenes",
+            "capacidad": 19200
+        },
+        {
+            "nombre": "Las Palmas",
+            "codigo": "LPA",
+            "fundacion": 1949,
+            "estadio": "Estadio Gran Canaria",
+            "capacidad": 32000
+        },
+        {
+            "nombre": "Real Madrid",
+            "codigo": "RMA",
+            "fundacion": 1902,
+            "estadio": "Santiago Bernabeu",
+            "capacidad": 81044
+        },
+        {
+            "nombre": "Mallorca",
+            "codigo": "MAJ",
+            "fundacion": 1916,
+            "estadio": "Son Moix",
+            "capacidad": 23200
+        },
+        {
+            "nombre": "Osasuna",
+            "codigo": "OSA",
+            "fundacion": 1920,
+            "estadio": "El Sadar",
+            "capacidad": 23500
+        },
+        {
+            "nombre": "Rayo Vallecano",
+            "codigo": "RAY",
+            "fundacion": 1924,
+            "estadio": "Estadio de Vallecas",
+            "capacidad": 14500
+        },
+        {
+            "nombre": "Real Sociedad",
+            "codigo": "RSO",
+            "fundacion": 1909,
+            "estadio": "Anoeta",
+            "capacidad": 39500
+        },
+        {
+            "nombre": "Sevilla",
+            "codigo": "SEV",
+            "fundacion": 1890,
+            "estadio": "Ramon Sanchez-Pizjuan",
+            "capacidad": 43883
+        },
+        {
+            "nombre": "Valencia","codigo": "VAL",
+            "fundacion": 1919,
+            "estadio": "Mestalla",
+            "capacidad": 55000
+        },
+        {
+            "nombre": "Villarreal",
+            "codigo": "VIL",
+            "fundacion": 1923,
+            "estadio": "Estadio de la Ceramica",
+            "capacidad": 25000
+        },
+        {
+            "nombre": "Real Valladolid",
+            "codigo": "VAL",
+            "fundacion": 1928,
+            "estadio": "Jose Zorrilla",
+            "capacidad": 27000
+        },
+        {
+            "nombre": "Cadiz",
+            "codigo": "CAD",
+            "fundacion": 1910,
+            "estadio": "Estadio Nuevo Mirandilla",
+            "capacidad": 20000
+        }
+    ]
+}
+
