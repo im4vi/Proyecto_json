@@ -7,7 +7,7 @@ def menu():
 
     while True:
         # Menú interactivo
-        print("*** Menu de opciones ***")
+        print(" MENU DE OPCIONES ")
         print("1. Listar los nombres de los clubes")
         print("2. Contar el número total de clubes")
         print("3. Buscar clubes por una subcadena en su nombre")
